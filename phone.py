@@ -1,3 +1,4 @@
+//这是opensourse-test用户新增的注释
 class Phone:
     __is_5g_enable=False
     def __check_5g(self):
